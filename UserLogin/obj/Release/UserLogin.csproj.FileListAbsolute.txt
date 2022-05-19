@@ -1,0 +1,7 @@
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\bin\Release\UserLogin.exe.config
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\bin\Release\UserLogin.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\bin\Release\UserLogin.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\obj\Release\UserLogin.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\obj\Release\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\obj\Release\UserLogin.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\obj\Release\UserLogin.pdb

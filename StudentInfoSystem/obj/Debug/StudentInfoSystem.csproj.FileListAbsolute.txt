@@ -1,0 +1,75 @@
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\LoginWindow.g.cs
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\LoginWindow.baml
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentListWindow.g.cs
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\obj\Debug\StudentListWindow.baml
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\MinimalMVVM.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\MinimalMVVM.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\EntityFramework.dll
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\EntityFramework.xml
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\LoginWindow.g.cs
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentListWindow.g.cs
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\bin\Debug\EntityFramework.dll
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\bin\Debug\EntityFramework.xml
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\LoginWindow.baml
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentListWindow.baml
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete

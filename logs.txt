@@ -1,0 +1,77 @@
+02-Mar-22 9:31:42 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:33:15 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:33:29 PM;Denislav;ADMIN;Listed users
+02-Mar-22 9:33:29 PM;Denislav;ADMIN;Listed users
+02-Mar-22 9:33:29 PM;Denislav;ADMIN;Listed users
+02-Mar-22 9:42:42 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:44:59 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:45:33 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:46:31 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:47:17 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:49:53 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:50:30 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:51:45 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:52:39 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:53:16 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 9:56:59 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 10:00:26 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 10:00:29 PM;Denislav;ADMIN;Listed users
+02-Mar-22 10:00:29 PM;Denislav;ADMIN;Listed users
+02-Mar-22 10:00:29 PM;Denislav;ADMIN;Listed users
+02-Mar-22 10:01:17 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 10:01:42 PM;Denislav;ADMIN;Changed account expiration date of user - Denislav
+02-Mar-22 10:02:22 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 10:03:28 PM;Denislav;ADMIN;Changed account expiration date of user - Denislav
+02-Mar-22 10:07:53 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 10:08:01 PM;Denislav;ADMIN;Listed users
+02-Mar-22 10:08:01 PM;Denislav;ADMIN;Listed users
+02-Mar-22 10:08:01 PM;Denislav;ADMIN;Listed users
+02-Mar-22 10:34:29 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 10:36:24 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 10:44:31 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 10:44:59 PM;Denislav;ADMIN;Changed role of user Denislav
+02-Mar-22 10:45:36 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 10:47:09 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 10:47:24 PM;Denislav;ADMIN;Changed role of user Denislav
+02-Mar-22 10:47:36 PM;Denislav;ADMIN;Logged successfully!
+02-Mar-22 10:47:43 PM;Denislav;ADMIN;Changed role of user Denislav
+03-Mar-22 2:35:48 PM;Denislav;ADMIN;Logged successfully!
+03-Mar-22 2:35:53 PM;Denislav;ADMIN;Listed users
+03-Mar-22 2:35:53 PM;Denislav;ADMIN;Listed users
+03-Mar-22 2:35:53 PM;Denislav;ADMIN;Listed users
+03-Mar-22 2:36:27 PM;Denislav;ADMIN;Logged successfully!
+03-Mar-22 2:36:38 PM;Denislav;ADMIN;Changed account expiration date of user Denislav
+03-Mar-22 2:36:40 PM;Denislav;ADMIN;Listed users
+03-Mar-22 2:36:40 PM;Denislav;ADMIN;Listed users
+03-Mar-22 2:36:40 PM;Denislav;ADMIN;Listed users
+03-Mar-22 4:56:46 PM;Denislav;ADMIN;Logged successfully!
+03-Mar-22 4:57:01 PM;Denislav;ADMIN;Changed role of user Denislav
+03-Mar-22 4:57:42 PM;Denislav;ADMIN;Logged successfully!
+03-Mar-22 4:57:48 PM;Denislav;ADMIN;Changed role of user Denislav
+03-Mar-22 4:58:41 PM;Denislav;ADMIN;Logged successfully!
+03-Mar-22 4:58:47 PM;Denislav;ADMIN;Changed role of user Denislav
+03-Mar-22 5:02:01 PM;Denislav;ADMIN;Logged successfully!
+03-Mar-22 5:02:05 PM;Denislav;ADMIN;Changed role of user Denislav
+03-Mar-22 5:02:41 PM;Denislav;ADMIN;Logged successfully!
+03-Mar-22 5:02:47 PM;Denislav;ADMIN;Changed role of user Denislav
+03-Mar-22 5:27:11 PM;Denislav;ADMIN;Logged successfully!
+03-Mar-22 5:28:43 PM;Denislav;ADMIN;Logged successfully!
+03-Mar-22 5:30:47 PM;Denislav;ADMIN;User DS not found!
+03-Mar-22 5:31:13 PM;Denislav;ADMIN;Logged successfully!
+04-Mar-22 10:13:12 AM;Denislav;ADMIN;Logged successfully!
+04-Mar-22 10:13:45 AM;Denislav;ADMIN;Logged successfully!
+04-Mar-22 10:14:23 AM;Denislav;ADMIN;Preparing a certificate for testSt
+04-Mar-22 10:14:23 AM;Denislav;ADMIN;Preparing a certificate for student testSt
+04-Mar-22 10:17:37 AM;Denislav;ADMIN;Logged successfully!
+04-Mar-22 10:17:58 AM;Denislav;ADMIN;Preparing a certificate for student Pavel
+04-Mar-22 10:19:39 AM;Denislav;ADMIN;Logged successfully!
+04-Mar-22 10:19:51 AM;Denislav;ADMIN;Preparing a certificate for student Pavel
+04-Mar-22 10:20:41 AM;Denislav;ADMIN;Logged successfully!
+04-Mar-22 10:20:48 AM;Denislav;ADMIN;Preparing a certificate for student Pavel
+04-Mar-22 10:21:43 AM;Denislav;ADMIN;Logged successfully!
+04-Mar-22 10:21:52 AM;Denislav;ADMIN;Student Slavi not found!
+04-Mar-22 10:22:48 AM;Denislav;ADMIN;Logged successfully!
+04-Mar-22 10:22:52 AM;Denislav;ADMIN;Student slavko not found!
+04-Mar-22 10:23:04 AM;Denislav;ADMIN;Creating a certificate for student Pavel
+04-Mar-22 10:30:01 AM;Denislav;ADMIN;Logged successfully!
+04-Mar-22 10:30:08 AM;Denislav;ADMIN;Creating a certificate for student Pavel

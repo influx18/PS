@@ -1,0 +1,31 @@
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\obj\Debug\UserLogin.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\obj\Debug\UserLogin.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\UserLogin\obj\Debug\UserLogin.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS_Project\UserLogin\obj\Debug\UserLogin.pdb
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\bin\Debug\EntityFramework.dll
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\bin\Debug\EntityFramework.xml
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\denis\Desktop\workspace\denislavPetkov\TU\C#\PS\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\bin\Debug\EntityFramework.dll
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\bin\Debug\EntityFramework.xml
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\obj\Debug\UserLogin.csprojAssemblyReference.cache
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\pavel\Desktop\PS ex 6\PS-d35684e6f116d87686510347dd21dbbc354365be\UserLogin\obj\Debug\UserLogin.pdb
