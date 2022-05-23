@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
+using System.Windows.Controls;
 using System.Windows.Input;
 
 namespace StudentInfoSystem.ViewModel
 {
     public class LoginVM : ObservableObject
     {
-        
+
         private string _username;
-        private string _password;
 
         public string Username
         {
@@ -20,16 +20,6 @@ namespace StudentInfoSystem.ViewModel
             {
                 _username = value;
                 RaisePropertyChangedEvent("Username");
-            }
-        }
-
-        public string Password
-        {
-            get { return _password; }
-            set
-            {
-                _password = value;
-                RaisePropertyChangedEvent("Password");
             }
         }
 

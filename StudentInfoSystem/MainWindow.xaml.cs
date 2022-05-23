@@ -34,7 +34,8 @@ namespace StudentInfoSystem
             InitializeComponent();
             this.DataContext = currentStudent;
 
-          
+            var uriSource = new Uri(@"/StudentInfoSystem;component/Images/" + currentStudent.GetNames() + ".png", UriKind.Relative);
+            studentPicture.Source = new BitmapImage(uriSource);
 
             firstName.IsEnabled = false;
             middleName.IsEnabled = false;
@@ -69,7 +70,9 @@ namespace StudentInfoSystem
                 SetCourse(currentStudent.SemestralCourse.ToString());
                 SetStream(currentStudent.SemestralStream.ToString());
                 SetGroup(currentStudent.SemestralGroup.ToString());
-              
+                var uriSource = new Uri(@"/StudentInfoSystem;component/Images/" + currentStudent.GetNames() + ".png", UriKind.Relative);
+                studentPicture.Source = new BitmapImage(uriSource);
+
             }
             else
             {
@@ -81,7 +84,7 @@ namespace StudentInfoSystem
                 SetCourse("");
                 SetStream("");
                 SetGroup("");
-               
+                studentPicture.Source = null;
             }
         }
 

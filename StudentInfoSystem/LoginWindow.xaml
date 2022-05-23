@@ -9,10 +9,10 @@
     <Grid>
         <Grid HorizontalAlignment="Left" Height="399" Margin="10,10,0,0" VerticalAlignment="Top" Width="772">
             <TextBox Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" x:Name="UsernameTextBox" HorizontalAlignment="Left" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" Margin="153,131,0,0"/>
-            <TextBox Text="{Binding Password, UpdateSourceTrigger=PropertyChanged}" x:Name="PasswordTextBox" HorizontalAlignment="Left" Height="27" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" Margin="153,188,0,0"/>
+            <PasswordBox x:Name="PasswordTextBox" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="138" Margin="153,188,0,0"/>
             <Label Content="Password:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="87,188,0,0" Width="66"/>
             <Label Content="Username:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="87,131,0,0" Width="66"/>
-            <Button Command="{Binding Login}" x:Name="LoginButton" Content="Login" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="93,241,0,0" />
+            <Button Command="{Binding Login}" CommandParameter="{Binding ElementName=PasswordTextBox}" x:Name="LoginButton" Content="Login" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="93,241,0,0" />
             <Button  Command="{Binding NoLogin}" x:Name="NoLoginButton" Content="NoLogin" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" RenderTransformOrigin="2.254,12.694" Margin="198,241,0,0" />
         </Grid>
 

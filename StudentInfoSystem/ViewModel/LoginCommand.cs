@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Windows.Controls;
 using System.Windows.Input;
 
 namespace StudentInfoSystem.ViewModel
@@ -14,7 +15,9 @@ namespace StudentInfoSystem.ViewModel
 
         public void Execute(object parameter)
         {
-            UserLogin.UserRoles userRole = UserLogin.LoginValidator.Authenticate(_loginVm.Username, _loginVm.Password, null);
+            PasswordBox pswd = (PasswordBox)parameter;
+
+            UserLogin.UserRoles userRole = UserLogin.LoginValidator.Authenticate(_loginVm.Username, pswd.Password, null);
 
             if (userRole == UserLogin.UserRoles.STUDENT)
             {
